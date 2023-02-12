@@ -9,7 +9,7 @@ nav
     color:inherit;
     font-size:18px;
     } 
-    nav li:hover{
+    nav li:{
     display:inline-block;
     width:10%;
     padding:10px 20px;
