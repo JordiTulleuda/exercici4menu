@@ -10,10 +10,10 @@ nav
     font-size:18px;
     } 
     a:hover{
-        text-decoration:none;
-        color:blue;
-        font-size:18px;
-        } 
+     text-decoration:none;
+     color:blue;
+    font-size:18px;
+     } 
     nav li:{
     display:inline-block;
     width:10%;
