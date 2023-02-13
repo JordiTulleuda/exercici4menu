@@ -23,7 +23,7 @@
         display: block;
         text-decoration: none;
         color: #fff;
-        background-color: rgba(59,93,148,1);
+        background-color: blue;
         border: solid 1px #fff;
         padding: 8px;
         position: relative;
@@ -42,7 +42,7 @@
     /* PROPIEDADES ESPECÍFICAS */
     
     #menu ul li ul li ul li a.primera {
-        border-top-color: #fff;
+        border-top-color: white;
     }
     
     #menu ul li.nivel1 { 
@@ -51,7 +51,7 @@
     }
     
     #menu ul li a.nivel2 {
-        color: #000;
+        color: black;
     }
     
     #menu ul li a.nivel1, #menu ul li a.nivel2 {
@@ -66,8 +66,8 @@
     }
     
     #menu ul li a:hover, #menu ul li:hover a.nivel1 {
-        background-color: #6CC;
-        color: #000;
+        background-color: rgb(0, 195, 255);
+        color: black;
         position: relative;
     }
     
@@ -84,6 +84,6 @@
     }
     
     #menu ul li ul li a:hover {
-        border-top-color: #000;
+        border-top-color: black;
         position: relative;
     }
